@@ -5,7 +5,8 @@
 
 Gunakan script di bawah untuk menginstall thema dengan sekali copy paste saja.
 
-``` bash <( curl -s https://raw.githubusercontent.com/DITZZ112/tester/main/install.sh)
+```bash
+bash <( curl -s https://raw.githubusercontent.com/DITZZ112/tester/main/install.sh)
 ```
 
 _Note: jika mengalami kesalahan atau kegagalan, unistall thema terlebih dahulu kemudia intsall kembali themanya._
